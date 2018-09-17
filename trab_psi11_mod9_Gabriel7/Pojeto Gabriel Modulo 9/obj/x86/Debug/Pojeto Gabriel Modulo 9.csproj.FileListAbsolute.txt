@@ -1,0 +1,61 @@
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\bin\Debug\Pojeto Gabriel Modulo 9.exe
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\bin\Debug\Pojeto Gabriel Modulo 9.pdb
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csproj.GenerateResource.Cache
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.exe
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.pdb
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gabri\documents\visual studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\gabri\documents\visual studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\bin\Debug\Pojeto Gabriel Modulo 9.exe.config
+C:\Users\gabri\documents\visual studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.SettingsForm.resources
+C:\Users\gabri\documents\visual studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\documents\visual studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\documents\visual studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\gabri\documents\visual studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\documents\visual studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csproj.ResolveComReference.cache
+C:\Users\gabri\documents\visual studio 2010\Projects\Pojeto Gabriel Modulo 9\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Video.resources
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\Pojeto Gabriel Modulo 9.exe.config
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csproj.ResolveComReference.cache
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.exe
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.pdb
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\Pojeto Gabriel Modulo 9.exe
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\Pojeto Gabriel Modulo 9.pdb
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.SettingsForm.resources
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Video.resources
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csproj.GenerateResource.Cache
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\AForge.Video.dll
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\gabri\Documents\Visual Studio 2010\Projects\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\Pojeto Gabriel Modulo 9.exe.config
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\Pojeto Gabriel Modulo 9.exe
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\Pojeto Gabriel Modulo 9.pdb
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\AForge.Video.dll
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\Interop.WMPLib.dll
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csprojAssemblyReference.cache
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csproj.ResolveComReference.cache
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.SettingsForm.resources
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\WindowsFormsApplication1.Video.resources
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csproj.GenerateResource.cache
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csproj.CoreCompileInputs.cache
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.csproj.CopyComplete
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.exe
+C:\Users\deost\source\repos\trab_psi11_mod9_Gabriel7\Pojeto Gabriel Modulo 9\obj\x86\Debug\Pojeto Gabriel Modulo 9.pdb
